@@ -15,7 +15,7 @@
 
    - There wasn't much differences in test scores between 2017 and 2018. Mandatory testing can also result in low test scores than voluntary tests by students.
 
-  - Efforts to increase SAT participation rates should be done on California as it does not have any mandatory tests. Beign a highly populous country it also needs lot of manpower and efforts to increase the participation rate. Along with that the board can also implement few more readily available free resources to encourage students by SAT coach tools Khan Academy
+  - Efforts to increase SAT participation rates should be done on California as it does not have any mandatory tests. Being a highly populous country it also needs lot of manpower and efforts to increase the participation rate. Along with that the board can also implement few more readily available free resources to encourage students by SAT coach tools Khan Academy
 
 ### Contents:
 - [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
